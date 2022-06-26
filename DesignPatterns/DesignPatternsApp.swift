@@ -11,7 +11,8 @@ import SwiftUI
 struct DesignPatternsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            GetWords1(wordsViewModel: WordsViewModel([""]))
         }
     }
 }
