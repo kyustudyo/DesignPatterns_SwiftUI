@@ -7,7 +7,7 @@ with swiftui
 generic
 
 
-# wwdc data essential
+# 참고 영상: WWDC data essential
 Where will the data come from -> source of truth
 
 Source of truth -> properties maintain itself. 
