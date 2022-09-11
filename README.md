@@ -4,7 +4,6 @@
 그간 공부했던 사항들을 대입해 보았습니다.
 with swiftui
 
-generic
 
 
 # 참고 영상: WWDC data essential
